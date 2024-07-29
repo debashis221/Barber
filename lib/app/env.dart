@@ -7,7 +7,7 @@
   Copyright and Good Faith Purchasers © 2024-present initappz.
 */
 class Environments {
-  static const String appName = 'Ultimate Owner Salon & Shop';
-  static const String companyName = 'Initappz';
-  static const String apiBaseURL = 'https://api.domain.com/public/';
+  static const String appName = 'Barber Salon App';
+  static const String companyName = 'CodeEngineer';
+  static const String apiBaseURL = 'https://salonapi.codeengineer.live/';
 }
